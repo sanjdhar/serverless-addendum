@@ -13,9 +13,10 @@ This is an addendum to the [AWS Serverless Workshops](https://github.com/aws-sam
 ssh-keygen  
 ```
 Give the key a name (Eg. my-key-pair)
-```
+
 
 Append the public key to the `authorized_keys` file
+```
 ssh-keygen -y -f /path_to_key_pair/my-key-pair.pem >> ~/.ssh/authorized_keys
 
   ```
