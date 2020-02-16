@@ -1,6 +1,6 @@
 # Serverless Addendum
 
-This is an addendum to the [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops). Minor updates added to test
+This is an addendum to the [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops).
 
 ## DevOps updates
 
